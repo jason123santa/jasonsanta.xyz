@@ -17,6 +17,10 @@ padding: 6px;
     text-align: center;
 }
 
+#footer {
+text-align: center;
+}
+
 html{
     background-color: #2c2f33 ;
     font-family: "Times New Roman", Times, serif;
