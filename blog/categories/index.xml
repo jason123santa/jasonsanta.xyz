@@ -12,11 +12,23 @@
     
     
     <item>
+      <title>Backend Packages and Frontend Packages</title>
+      <link>/posts/backend-packages-vs-frontend-packages/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/backend-packages-vs-frontend-packages/</guid>
+      <description>You might be reading the title of this blog post and saying &amp;ldquo;what are frontend and backend packages?
+When I am referring to front end packages I am talking about packages that are GUI based and show up in the application menu. Mostly Firefox, mpv and others. Those are the applications most people refer to when talking about bloat. Most of these packages are the type of applications people know they have on their system.</description>
+    </item>
+    
+    
+    
+    <item>
       <title>Switched to Linux Mint</title>
-      <link>/switched-to-linux-mint/</link>
+      <link>/posts/switched-to-linux-mint/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/switched-to-linux-mint/</guid>
+      <guid>/posts/switched-to-linux-mint/</guid>
       <description>A few weeks ago my PopOS install would not show the grub screen. Nothing would fix it so I had to reinstall.
 Thought I should try Linux Mint. Went to install Linux Mint to replace PopOS.
 The install was very easy being it is a beginner distro. Got it installed and went to install some programs like steam.
@@ -27,22 +39,22 @@ Steam worked right out of the box including most of the other applications I ins
     
     <item>
       <title>Applications that I use on my pinephone</title>
-      <link>/applications-that-i-use-on-my-pinephone/</link>
-      <pubDate>Sat, 20 Feb 2021 20:59:40 -0500</pubDate>
+      <link>/posts/applications-that-i-use-on-my-pinephone/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/applications-that-i-use-on-my-pinephone/</guid>
+      <guid>/posts/applications-that-i-use-on-my-pinephone/</guid>
       <description>As you may know the pinephone is a phone running a regular arm linux distro with touch screen tweaks. That does mean that there is only compatiblity with desktop linux applications and applications made for linux phones. Most of the main applications that people use on their android and ios phones are not supported by the linux based distros (anbox makes android apps work but not even close to good enough for main use).</description>
     </item>
     
     
     
     <item>
-      <title>Starting the 100 days to offload challenge</title>
-      <link>/starting-the-100-days-to-offload-challenge/</link>
-      <pubDate>Tue, 16 Feb 2021 20:56:32 -0500</pubDate>
+      <title>Starting the 100 Days to Offload Challenge</title>
+      <link>/posts/starting-the-100-days-to-offload-challenge/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/starting-the-100-days-to-offload-challenge/</guid>
-      <description>I am Jason and I will be starting the 100 days to offload challange today. Coming into this I don&amp;rsquo;t know what to except but I think I can make it work. Even if I don&amp;rsquo;t check for grammar mistakes I am still wring about what I want to write about.
+      <guid>/posts/starting-the-100-days-to-offload-challenge/</guid>
+      <description>I am Jason and I will be starting the 100 days to offload challange today. Coming into this I don’t know what to except but I think I can make it work. Even if I don’t check for grammar mistakes I am still wring about what I want to write about.
 Some things to know about me is that I am into FOSS and linux. Got the pinephone in December of 2020.</description>
     </item>
     
