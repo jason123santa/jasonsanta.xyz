@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+<title>Dison oso Haus</title>
+<description>Drew's blog</description>
+<language>en-gb</language>
+<link>https://jasonsanta.xyz/rss.xml</link>
+<atom:link href="https://jasonsanta.xyz/rss.xml" rel="self" type="application/rss+xml" />
+
+<item>
+<title>Backend Packages and Frontend Packages</title>
+<guid>https://jasonsanta.xyz/posts/backend-packages-and-frontend-packages.html</guid>
+<pubDate>Tue, 06 Apr 2021 00:00:00 -0400</pubDate><description><![CDATA[<p>You might be reading the title of this blog post and saying "what are frontend and backend packages?</p>
+<p>When I am referring to front end packages I am talking about packages that are GUI based and show up in the application menu. Mostly Firefox, mpv and others. Those are the applications most people refer to when talking about bloat. Most of these packages are the type of applications people know they have on their system.</p>
+<p>Backend packages are the packages that are just there making things work. Mostly like ntp, network manager, and pulse audio applets. Most new users and some advanced users don’t want to spend time setting these things up in a distro and just want these things installed. These are mostly not considered bloat to most people. It takes to much time to want to do something and these packages are not installed on the distro. This mostly happens on Arch where you don’t have these things installed.</p>
+<p>Most users coming to Linux want to just get the distro installed and not have to worry about basic things like network applets. Even advanced linux users still want a distro that they don’t have to configure to much to get it working.</p>
+<p>Some distros like Arch and Gentoo let the user have complete control over the system. In return the user might have to setup more packages themselves then some people want. Void is a great distro that I currently use on my system. It is a minimal pre configured setup of any desktop environment that you want to use. I think Void gives you the control without going through the install process of distros like Arch. There are somethings that Void does not include by default that most other distros do. Bluetooth packages are not installed and setup for you. If you have bluetooth and want to use it you have to set it up yourself following the instructions on the Void handbook.</p>
+<p>Some users don’t want to have to worry about installing and configuring packages that come included in other distros if they just used that distro. If people don’t have the time to set it up however they like then these minimal distros will not be good. Sometimes in the minimal distros like Arch there is so much left up to the user to do that when your trying to do something it might not work and then you have to find the package to install to get that working.</p>
+<p>Overall I think that it depends on the distro when your referring to minimal. A minimal install of Arch is just the needed packages to get the desktop environment running. While on a distro like Ubuntu the minimal might be having less applications installed by default. It does not matter if your using a distro that has these things setup for you if that is what you want.</p>]]></description>
+</item>
+
+
+<item>
+<title>Switched to Linux Mint</title>
+<guid>https://jasonsanta.xyz/posts/switched-to-linux-mint.html</guid>
+<pubDate>Mon, 08 Mar 2021 00:00:00 -0500</pubDate><description><![CDATA[<p>A few weeks ago my PopOS install would not show the grub screen. Nothing would fix it so I had to reinstall.</p>
+<p>Thought I should try Linux Mint. Went to install Linux Mint to replace PopOS.</p>
+<p>The install was very easy being it is a beginner distro. Got it installed and went to install some programs like steam.</p>
+<p>Steam worked right out of the box including most of the other applications I installed.</p>
+<p>I really liked Linux Mint and will continue to use it till I think there is a need to switch. Really liked the Software center. On PopOS the Pop shop froze at times and is not close to as good as the software center on Linux Mint. The Software center on Linux Mint is one of the best on any distro and is great for beginners.</p>
+<p>Everything just work for me on Linux Mint and the cinnamon desktop is so much better in my opinion then Gnome.</p>
+<p>Overall I think Linux Mint is a great distro and you should try it out.</p>]]></description>
+</item>
+
+
+<item>
+<title>Applications that I use on my pinephone</title>
+<guid>https://jasonsanta.xyz/posts/applications-that-i-use-on-my-pinephone.html</guid>
+<pubDate>Sat, 20 Feb 2021 00:00:00 -0500</pubDate><description><![CDATA[<p>As you may know the pinephone is a phone running a regular arm linux distro with touch screen tweaks. That does mean that there is only compatiblity with desktop linux applications and applications made for linux phones. Most of the main applications that people use on their android and ios phones are not supported by the linux based distros (anbox makes android apps work but not even close to good enough for main use).</p>
+<p>That is when you have to find alternitives or clients that connect to the services that you want to use. If the software or app you want to use does not work on a web browser then you need to use native apps.</p>
+<p>I will be going over some applications I use on my pinephone.</p>
+<p>Excpet another blog post explaning how the various applications work on the pinephone. Web browsers:</p>
+<pre><code>1. Firefox
+2. Angelfish</code></pre>
+<p>Matrix clients:</p>
+<pre><code>1. Fractal
+2. Mirage
+3. nheko</code></pre>
+<p>More applications:</p>
+<p>Galculator - Caculator application that formats better then gnome caculator</p>
+<p>Giara - Reddit</p>
+<p>Lollypop - Music player</p>
+<p>Mpv - video player</p>
+<p>Celluloid - Another video player with bigger controls but more choppy framerate</p>
+<p>Tootle - Mastodon</p>
+<p>Telegram desktop - Telegram</p>
+<p>Gnome Weather - Weather</p>
+<p>Geary - Email</p>
+<p>Gnome Podcasts - podcasts</p>
+<p>Pure maps - Navagation maps</p>]]></description>
+</item>
+
+
+<item>
+<title>Starting the 100 Days to Offload Challenge</title>
+<guid>https://jasonsanta.xyz/posts/starting-the-100-days-to-offload-challenge.html</guid>
+<pubDate>Tue, 16 Feb 2021 00:00:00 -0500</pubDate><description><![CDATA[<p>I am Jason and I will be starting the 100 days to offload challange today. Coming into this I don’t know what to except but I think I can make it work. Even if I don’t check for grammar mistakes I am still wring about what I want to write about.</p>
+<p>Some things to know about me is that I am into FOSS and linux. Got the pinephone in December of 2020. Its one of the best phones I even owned. You might find posts about linux and FOSS or just anything that I want to post for that day. Expect some posts about the Pinephone and other linux phones, Void linux or PopOS.</p>
+<p>I am looking foward to posting more on my blog and hope to even teach some people about things they might not have known about.</p>]]></description>
+</item>
+
+
+
+</channel>
+</rss>
