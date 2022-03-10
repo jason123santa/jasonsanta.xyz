@@ -9,9 +9,21 @@
 <atom:link href="https://jasonsanta.xyz/rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>Retrying the 100 days to offload </title>
+<guid>https://jasonsanta.xyz/posts/retrying-the-100-days-to-offload-.html</guid>
+<pubDate>Wed, 09 Mar 2022 19:16:19 -0500</pubDate><description><![CDATA[<p>My first blog post in awhile. I want to try the 100 days to offload challenge again. If I do end up trying it again I might need to rethink how I am doing this.</p>
+<h4 id="rethinking-how-i-am-going-to-write-my-blog-posts">Rethinking how I am going to write my blog posts</h4>
+<p>The 100 days to offload challenge sounds like it would be a good diea. Wanted to try it and did end up posting about 3 posts before I just stopped posting. Now that it has been a few months since my last post I want to try and post more offen.<br />
+I think that I need to start posting shorter blog posts more like micro blogging but a little bit different and not as shirt. Though some of them might be that short I really don’t know yet.</p>
+<p>I was thinking that I could have a seperate part on my website where I just put shorter quotes that I come up with that I want to post kind of like micro blogging but very short stuff. That might be a great idea. Though really I want to just write shorter blog posts that might not be something that is really thought out but it is just a blog post and something that I wrote.</p>
+<p>Going to try the challenge again and see how it goes if I post shorter not really thought out posts. Then sometimes I can post stuff that are longer.</p>]]></description>
+</item>
+
+
+<item>
 <title>My thought on Technology</title>
 <guid>https://jasonsanta.xyz/posts/my-thought-on-technology.html</guid>
-<pubDate>Wed, 15 Sep 2021 20:31:19 -0400</pubDate><description><![CDATA[<p>I got to the point where I don’t care about new phones anymore. Used to be really into the new phones but now I just don’t care. Kind of more excited about older phones and phones running linux / alternative software / features.</p>
+<pubDate>Wed, 15 Sep 2021 20:39:57 -0400</pubDate><description><![CDATA[<p>I got to the point where I don’t care about new phones anymore. Used to be really into the new phones but now I just don’t care. Kind of more excited about older phones and phones running linux / alternative software / features.</p>
 <p>As for using older phones models I have a pixel 2 xl wich came out around the same time as the 5t. I might upgrade in the future but honestly only because there are no software updates anymore (verizon model so I can’t unlock bootloader). Otherwise I would keep my phone because it is great and is almost as fast a new phone would be.</p>
 <h2 id="chat-applications">Chat applications</h2>
 <p>Delta chat - I really do like delta chat and that it uses email. Email is the biggest federated network on the whole internet so having it be in the format of a messenger application and secure makes it great. Even though there is no easy way to convince someone to use delta chat if they are not interested in the technology itself.</p>
@@ -27,7 +39,7 @@
 <item>
 <title>Backend Packages and Frontend Packages</title>
 <guid>https://jasonsanta.xyz/posts/backend-packages-and-frontend-packages.html</guid>
-<pubDate>Tue, 06 Apr 2021 00:00:00 -0400</pubDate><description><![CDATA[<p>You might be reading the title of this blog post and saying "what are frontend and backend packages?</p>
+<pubDate>Tue, 06 Apr 2021 00:00:00 -0400</pubDate><description><![CDATA[<p>You might be reading the title of this blog post and saying “what are frontend and backend packages?</p>
 <p>When I am referring to front end packages I am talking about packages that are GUI based and show up in the application menu. Mostly Firefox, mpv and others. Those are the applications most people refer to when talking about bloat. Most of these packages are the type of applications people know they have on their system.</p>
 <p>Backend packages are the packages that are just there making things work. Mostly like ntp, network manager, and pulse audio applets. Most new users and some advanced users don’t want to spend time setting these things up in a distro and just want these things installed. These are mostly not considered bloat to most people. It takes to much time to want to do something and these packages are not installed on the distro. This mostly happens on Arch where you don’t have these things installed.</p>
 <p>Most users coming to Linux want to just get the distro installed and not have to worry about basic things like network applets. Even advanced linux users still want a distro that they don’t have to configure to much to get it working.</p>
