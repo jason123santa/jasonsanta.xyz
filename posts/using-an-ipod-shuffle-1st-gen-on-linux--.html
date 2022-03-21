@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Using an Ipod shuffle 1st gen on linux  </title>
+	<meta charset="utf-8">
+	<link rel="alternate" type="application/atom+xml" title="RSS Feed" href="../rss.xml">
+	<link rel="stylesheet" href="../style.css" >
+	<link rel="shortcut icon" href="../images/favicon.png">
+</head>
+<body>
+<div id="container">
+
+<header>
+<h1><a href="../">Jason123Santa's website</a></h1>
+<h2>Using an Ipod shuffle 1st gen on linux  </h2>
+<div id="byline">by Jason on March 20, 2022</div>
+</header>
+
+<article>
+<p>Most people don’t use ipods anymore because phones have replaces them. The issues with using a phone as a media player is that its not nearly as small as using a standalone media player. Streaming services charge money for music that is lower quality and you don’t own the music. Buying the music from cds or digital download (downloading the media file not with an app to just play offline) results in better quality. Your supporting the people who make the music by buying the music. Its so much better. Besides I don’t have to use my phones battery when I am using a standalone media player.</p>
+<p>Found an old Ipod that was in storage. Its a 1st gen shuffle 1gb model. Why not just load some of my songs on it and listen to them. So that is what I did. I am using linux so I can’t just load up itunes and transfer my songs that way. Turns out that rhythmbox has support for Ipods. Though my ipod shuffle was not being detected by it. Was not even being mounted as a file system. While in windows it was being mounted.</p>
+<p>The solution I came up with was to use this python application called rebuild_db. It scans for all of the music in the same directory as the script is in.<br />
+First I have to mount the Ipod to my system. Then I download the python script and put it on the root directory of the ipod. After that I can rearange my music however I want on the ipod. I put my music under a folder named music then inside that I have some other folders to keep track of what I have. Its up to you how to rearange your music as long as its not in the iPod_Control directory. After you got your music sorted out run the script in the root directoy of your ipod. Its made in python2 so you have to use python2 to run the script. Python3 will just give an error.</p>
+<p>After your done just have fun with your ipod. This method will work on almost any os with python2 (i think). No longer have to use itunes or some graphical program to manage the songs.<br />
+Note: this only works for the first and second gen ipod shuffles. Even though this was last updated in 2006 it still works great.</p>
+<p>I loaded some great music onto mine like The Beach Boys.</p>
+<p>If you want to check out the python script have a look over on sourceforge: http://shuffle-db.sourceforge.net</p>
+</article>
+
+</div>
+</body>
+</html>
