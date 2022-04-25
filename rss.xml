@@ -9,77 +9,9 @@
 <atom:link href="https://jasonsanta.xyz/rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
-<title>Using an Ipod shuffle 1st gen on linux  </title>
-<guid>https://jasonsanta.xyz/posts/using-an-ipod-shuffle-1st-gen-on-linux--.html</guid>
-<pubDate>Sun, 20 Mar 2022 21:58:52 -0400</pubDate><description><![CDATA[<p>Most people don’t use ipods anymore because phones have replaces them. The issues with using a phone as a media player is that its not nearly as small as using a standalone media player. Streaming services charge money for music that is lower quality and you don’t own the music. Buying the music from cds or digital download (downloading the media file not with an app to just play offline) results in better quality. Your supporting the people who make the music by buying the music. Its so much better. Besides I don’t have to use my phones battery when I am using a standalone media player.</p>
-<p>Found an old Ipod that was in storage. Its a 1st gen shuffle 1gb model. Why not just load some of my songs on it and listen to them. So that is what I did. I am using linux so I can’t just load up itunes and transfer my songs that way. Turns out that rhythmbox has support for Ipods. Though my ipod shuffle was not being detected by it. Was not even being mounted as a file system. While in windows it was being mounted.</p>
-<p>The solution I came up with was to use this python application called rebuild_db. It scans for all of the music in the same directory as the script is in.<br />
-First I have to mount the Ipod to my system. Then I download the python script and put it on the root directory of the ipod. After that I can rearange my music however I want on the ipod. I put my music under a folder named music then inside that I have some other folders to keep track of what I have. Its up to you how to rearange your music as long as its not in the iPod_Control directory. After you got your music sorted out run the script in the root directoy of your ipod. Its made in python2 so you have to use python2 to run the script. Python3 will just give an error.</p>
-<p>After your done just have fun with your ipod. This method will work on almost any os with python2 (i think). No longer have to use itunes or some graphical program to manage the songs.<br />
-Note: this only works for the first and second gen ipod shuffles. Even though this was last updated in 2006 it still works great.</p>
-<p>I loaded some great music onto mine like The Beach Boys.</p>
-<p>If you want to check out the python script have a look over on sourceforge: <a href="http://shuffle-db.sourceforge.net">http://shuffle-db.sourceforge.net</a></p>]]></description>
-</item>
-
-
-<item>
-<title>Retrying the 100 days to offload </title>
-<guid>https://jasonsanta.xyz/posts/retrying-the-100-days-to-offload-.html</guid>
-<pubDate>Wed, 09 Mar 2022 19:16:19 -0500</pubDate><description><![CDATA[<p>My first blog post in awhile. I want to try the 100 days to offload challenge again. If I do end up trying it again I might need to rethink how I am doing this.</p>
-<h4 id="rethinking-how-i-am-going-to-write-my-blog-posts">Rethinking how I am going to write my blog posts</h4>
-<p>The 100 days to offload challenge sounds like it would be a good diea. Wanted to try it and did end up posting about 3 posts before I just stopped posting. Now that it has been a few months since my last post I want to try and post more offen.<br />
-I think that I need to start posting shorter blog posts more like micro blogging but a little bit different and not as shirt. Though some of them might be that short I really don’t know yet.</p>
-<p>I was thinking that I could have a seperate part on my website where I just put shorter quotes that I come up with that I want to post kind of like micro blogging but very short stuff. That might be a great idea. Though really I want to just write shorter blog posts that might not be something that is really thought out but it is just a blog post and something that I wrote.</p>
-<p>Going to try the challenge again and see how it goes if I post shorter not really thought out posts. Then sometimes I can post stuff that are longer.</p>]]></description>
-</item>
-
-
-<item>
-<title>My thought on Technology</title>
-<guid>https://jasonsanta.xyz/posts/my-thought-on-technology.html</guid>
-<pubDate>Wed, 15 Sep 2021 20:39:57 -0400</pubDate><description><![CDATA[<p>I got to the point where I don’t care about new phones anymore. Used to be really into the new phones but now I just don’t care. Kind of more excited about older phones and phones running linux / alternative software / features.</p>
-<p>As for using older phones models I have a pixel 2 xl wich came out around the same time as the 5t. I might upgrade in the future but honestly only because there are no software updates anymore (verizon model so I can’t unlock bootloader). Otherwise I would keep my phone because it is great and is almost as fast a new phone would be.</p>
-<h2 id="chat-applications">Chat applications</h2>
-<p>Delta chat - I really do like delta chat and that it uses email. Email is the biggest federated network on the whole internet so having it be in the format of a messenger application and secure makes it great. Even though there is no easy way to convince someone to use delta chat if they are not interested in the technology itself.</p>
-<p>Matrix - Its sort of good as a Discord alternitive. Its great at chatting in large open groups but even at that its not great. New users will get confused with encryption and the private and public key. I have been using Matrix for a while and just gave up on the encryption now and I only use it for groups that are only on matrix.</p>
-<p>Xmpp - Its the best secure messenger out there. People say that the ios clients are not great but on android conversations works great with no issues. On desktop dino works great for xmpp. Encryption is easy and all that is needed is to login to the other client and then it works with encryption. Allthough you can’t see past messages its not a big deal since new messages are encrypted. For a new user that is happy with the clients on ios or use android its the best secure messenger. Some people say xmpp is dying but I think its one of the best options for privacy.</p>
-<p>Irc - This is not a messenger application and is more for public groups. Its a rather old protocoll but its still great for what it does. On older devices like the pi zero w with diet pi lxde irc works just as good as on a normal powerful computer. It only has text messages support and no support for images. Even though it only supports text its great for that purpose. Another issue with irc is that some users get lost because their clients dissconects and then they don’t see the message that replies to what they asked. Irc might be almost dead but its not even close and its good for public groups that require only text conversations and want something simple.</p>
-<p>If I missed someother chat platform then tell me and I can add it here.</p>
-<h2 id="what-other-people-think-if-i-am-not-using-the-popular-applications">What other people think if i am not using the popular applications</h2>
-<p>Honestly even if people tell me I am stupid for not using (insert not private application here) I am still going to use what I want to use. Including me using Linux. If I want to use a Linux based OS why does the person telling me to use Windows care so much. Its not like it effects them so much. Just let me use whatever I want to use its my computer. Honestly I don’t like those people who say “just use windows its not that bad” because if I want to use Linux I should be able to.</p>]]></description>
-</item>
-
-
-<item>
-<title>Backend Packages and Frontend Packages</title>
-<guid>https://jasonsanta.xyz/posts/backend-packages-and-frontend-packages.html</guid>
-<pubDate>Tue, 06 Apr 2021 00:00:00 -0400</pubDate><description><![CDATA[<p>You might be reading the title of this blog post and saying “what are frontend and backend packages?</p>
-<p>When I am referring to front end packages I am talking about packages that are GUI based and show up in the application menu. Mostly Firefox, mpv and others. Those are the applications most people refer to when talking about bloat. Most of these packages are the type of applications people know they have on their system.</p>
-<p>Backend packages are the packages that are just there making things work. Mostly like ntp, network manager, and pulse audio applets. Most new users and some advanced users don’t want to spend time setting these things up in a distro and just want these things installed. These are mostly not considered bloat to most people. It takes to much time to want to do something and these packages are not installed on the distro. This mostly happens on Arch where you don’t have these things installed.</p>
-<p>Most users coming to Linux want to just get the distro installed and not have to worry about basic things like network applets. Even advanced linux users still want a distro that they don’t have to configure to much to get it working.</p>
-<p>Some distros like Arch and Gentoo let the user have complete control over the system. In return the user might have to setup more packages themselves then some people want. Void is a great distro that I currently use on my system. It is a minimal pre configured setup of any desktop environment that you want to use. I think Void gives you the control without going through the install process of distros like Arch. There are somethings that Void does not include by default that most other distros do. Bluetooth packages are not installed and setup for you. If you have bluetooth and want to use it you have to set it up yourself following the instructions on the Void handbook.</p>
-<p>Some users don’t want to have to worry about installing and configuring packages that come included in other distros if they just used that distro. If people don’t have the time to set it up however they like then these minimal distros will not be good. Sometimes in the minimal distros like Arch there is so much left up to the user to do that when your trying to do something it might not work and then you have to find the package to install to get that working.</p>
-<p>Overall I think that it depends on the distro when your referring to minimal. A minimal install of Arch is just the needed packages to get the desktop environment running. While on a distro like Ubuntu the minimal might be having less applications installed by default. It does not matter if your using a distro that has these things setup for you if that is what you want.</p>]]></description>
-</item>
-
-
-<item>
-<title>Switched to Linux Mint</title>
-<guid>https://jasonsanta.xyz/posts/switched-to-linux-mint.html</guid>
-<pubDate>Mon, 08 Mar 2021 00:00:00 -0500</pubDate><description><![CDATA[<p>A few weeks ago my PopOS install would not show the grub screen. Nothing would fix it so I had to reinstall.</p>
-<p>Thought I should try Linux Mint. Went to install Linux Mint to replace PopOS.</p>
-<p>The install was very easy being it is a beginner distro. Got it installed and went to install some programs like steam.</p>
-<p>Steam worked right out of the box including most of the other applications I installed.</p>
-<p>I really liked Linux Mint and will continue to use it till I think there is a need to switch. Really liked the Software center. On PopOS the Pop shop froze at times and is not close to as good as the software center on Linux Mint. The Software center on Linux Mint is one of the best on any distro and is great for beginners.</p>
-<p>Everything just work for me on Linux Mint and the cinnamon desktop is so much better in my opinion then Gnome.</p>
-<p>Overall I think Linux Mint is a great distro and you should try it out.</p>]]></description>
-</item>
-
-
-<item>
 <title>Applications that I use on my pinephone</title>
-<guid>https://jasonsanta.xyz/posts/applications-that-i-use-on-my-pinephone.html</guid>
-<pubDate>Sat, 20 Feb 2021 00:00:00 -0500</pubDate><description><![CDATA[<p>As you may know the pinephone is a phone running a regular arm linux distro with touch screen tweaks. That does mean that there is only compatiblity with desktop linux applications and applications made for linux phones. Most of the main applications that people use on their android and ios phones are not supported by the linux based distros (anbox makes android apps work but not even close to good enough for main use).</p>
+<guid>https://jasonsanta.xyz/Applications-that-I-use-on-my-pinephone.html</guid>
+<pubDate>Sun, 24 Apr 2022 19:41:08 -0400</pubDate><description><![CDATA[<p>As you may know the pinephone is a phone running a regular arm linux distro with touch screen tweaks. That does mean that there is only compatiblity with desktop linux applications and applications made for linux phones. Most of the main applications that people use on their android and ios phones are not supported by the linux based distros (anbox makes android apps work but not even close to good enough for main use).</p>
 <p>That is when you have to find alternitives or clients that connect to the services that you want to use. If the software or app you want to use does not work on a web browser then you need to use native apps.</p>
 <p>I will be going over some applications I use on my pinephone.</p>
 <p>Excpet another blog post explaning how the various applications work on the pinephone. Web browsers:</p>
@@ -105,11 +37,93 @@ I think that I need to start posting shorter blog posts more like micro blogging
 
 
 <item>
+<title>Backend Packages and Frontend Packages</title>
+<guid>https://jasonsanta.xyz/Backend-Packages-and-Frontend-Packages.html</guid>
+<pubDate>Sun, 24 Apr 2022 19:41:08 -0400</pubDate><description><![CDATA[<p>You might be reading the title of this blog post and saying “what are frontend and backend packages?</p>
+<p>When I am referring to front end packages I am talking about packages that are GUI based and show up in the application menu. Mostly Firefox, mpv and others. Those are the applications most people refer to when talking about bloat. Most of these packages are the type of applications people know they have on their system.</p>
+<p>Backend packages are the packages that are just there making things work. Mostly like ntp, network manager, and pulse audio applets. Most new users and some advanced users don’t want to spend time setting these things up in a distro and just want these things installed. These are mostly not considered bloat to most people. It takes to much time to want to do something and these packages are not installed on the distro. This mostly happens on Arch where you don’t have these things installed.</p>
+<p>Most users coming to Linux want to just get the distro installed and not have to worry about basic things like network applets. Even advanced linux users still want a distro that they don’t have to configure to much to get it working.</p>
+<p>Some distros like Arch and Gentoo let the user have complete control over the system. In return the user might have to setup more packages themselves then some people want. Void is a great distro that I currently use on my system. It is a minimal pre configured setup of any desktop environment that you want to use. I think Void gives you the control without going through the install process of distros like Arch. There are somethings that Void does not include by default that most other distros do. Bluetooth packages are not installed and setup for you. If you have bluetooth and want to use it you have to set it up yourself following the instructions on the Void handbook.</p>
+<p>Some users don’t want to have to worry about installing and configuring packages that come included in other distros if they just used that distro. If people don’t have the time to set it up however they like then these minimal distros will not be good. Sometimes in the minimal distros like Arch there is so much left up to the user to do that when your trying to do something it might not work and then you have to find the package to install to get that working.</p>
+<p>Overall I think that it depends on the distro when your referring to minimal. A minimal install of Arch is just the needed packages to get the desktop environment running. While on a distro like Ubuntu the minimal might be having less applications installed by default. It does not matter if your using a distro that has these things setup for you if that is what you want.</p>]]></description>
+</item>
+
+
+<item>
+<title>My thought on Technology</title>
+<guid>https://jasonsanta.xyz/My-thought-on-Technology.html</guid>
+<pubDate>Sun, 24 Apr 2022 19:41:08 -0400</pubDate><description><![CDATA[<p>I got to the point where I don’t care about new phones anymore. Used to be really into the new phones but now I just don’t care. Kind of more excited about older phones and phones running linux / alternative software / features.</p>
+<p>As for using older phones models I have a pixel 2 xl wich came out around the same time as the 5t. I might upgrade in the future but honestly only because there are no software updates anymore (verizon model so I can’t unlock bootloader). Otherwise I would keep my phone because it is great and is almost as fast a new phone would be.</p>
+<h2 id="chat-applications">Chat applications</h2>
+<p>Delta chat - I really do like delta chat and that it uses email. Email is the biggest federated network on the whole internet so having it be in the format of a messenger application and secure makes it great. Even though there is no easy way to convince someone to use delta chat if they are not interested in the technology itself.</p>
+<p>Matrix - Its sort of good as a Discord alternitive. Its great at chatting in large open groups but even at that its not great. New users will get confused with encryption and the private and public key. I have been using Matrix for a while and just gave up on the encryption now and I only use it for groups that are only on matrix.</p>
+<p>Xmpp - Its the best secure messenger out there. People say that the ios clients are not great but on android conversations works great with no issues. On desktop dino works great for xmpp. Encryption is easy and all that is needed is to login to the other client and then it works with encryption. Allthough you can’t see past messages its not a big deal since new messages are encrypted. For a new user that is happy with the clients on ios or use android its the best secure messenger. Some people say xmpp is dying but I think its one of the best options for privacy.</p>
+<p>Irc - This is not a messenger application and is more for public groups. Its a rather old protocoll but its still great for what it does. On older devices like the pi zero w with diet pi lxde irc works just as good as on a normal powerful computer. It only has text messages support and no support for images. Even though it only supports text its great for that purpose. Another issue with irc is that some users get lost because their clients dissconects and then they don’t see the message that replies to what they asked. Irc might be almost dead but its not even close and its good for public groups that require only text conversations and want something simple.</p>
+<p>If I missed someother chat platform then tell me and I can add it here.</p>
+<h2 id="what-other-people-think-if-i-am-not-using-the-popular-applications">What other people think if i am not using the popular applications</h2>
+<p>Honestly even if people tell me I am stupid for not using (insert not private application here) I am still going to use what I want to use. Including me using Linux. If I want to use a Linux based OS why does the person telling me to use Windows care so much. Its not like it effects them so much. Just let me use whatever I want to use its my computer. Honestly I don’t like those people who say “just use windows its not that bad” because if I want to use Linux I should be able to.</p>]]></description>
+</item>
+
+
+<item>
+<title>Retrying the 100 days to offload </title>
+<guid>https://jasonsanta.xyz/Retrying-the-100-days-to-offload-.html</guid>
+<pubDate>Sun, 24 Apr 2022 19:41:08 -0400</pubDate><description><![CDATA[<p>My first blog post in awhile. I want to try the 100 days to offload challenge again. If I do end up trying it again I might need to rethink how I am doing this.</p>
+<h4 id="rethinking-how-i-am-going-to-write-my-blog-posts">Rethinking how I am going to write my blog posts</h4>
+<p>The 100 days to offload challenge sounds like it would be a good diea. Wanted to try it and did end up posting about 3 posts before I just stopped posting. Now that it has been a few months since my last post I want to try and post more offen.<br />
+I think that I need to start posting shorter blog posts more like micro blogging but a little bit different and not as shirt. Though some of them might be that short I really don’t know yet.</p>
+<p>I was thinking that I could have a seperate part on my website where I just put shorter quotes that I come up with that I want to post kind of like micro blogging but very short stuff. That might be a great idea. Though really I want to just write shorter blog posts that might not be something that is really thought out but it is just a blog post and something that I wrote.</p>
+<p>Going to try the challenge again and see how it goes if I post shorter not really thought out posts. Then sometimes I can post stuff that are longer.</p>]]></description>
+</item>
+
+
+<item>
 <title>Starting the 100 Days to Offload Challenge</title>
-<guid>https://jasonsanta.xyz/posts/starting-the-100-days-to-offload-challenge.html</guid>
-<pubDate>Tue, 16 Feb 2021 00:00:00 -0500</pubDate><description><![CDATA[<p>I am Jason and I will be starting the 100 days to offload challange today. Coming into this I don’t know what to except but I think I can make it work. Even if I don’t check for grammar mistakes I am still wring about what I want to write about.</p>
+<guid>https://jasonsanta.xyz/Starting-the-100-Days-to-Offload-Challenge.html</guid>
+<pubDate>Sun, 24 Apr 2022 19:41:08 -0400</pubDate><description><![CDATA[<p>I am Jason and I will be starting the 100 days to offload challange today. Coming into this I don’t know what to except but I think I can make it work. Even if I don’t check for grammar mistakes I am still wring about what I want to write about.</p>
 <p>Some things to know about me is that I am into FOSS and linux. Got the pinephone in December of 2020. Its one of the best phones I even owned. You might find posts about linux and FOSS or just anything that I want to post for that day. Expect some posts about the Pinephone and other linux phones, Void linux or PopOS.</p>
 <p>I am looking foward to posting more on my blog and hope to even teach some people about things they might not have known about.</p>]]></description>
+</item>
+
+
+<item>
+<title>Switched to Linux Mint</title>
+<guid>https://jasonsanta.xyz/Switched-to-Linux-Mint.html</guid>
+<pubDate>Sun, 24 Apr 2022 19:41:08 -0400</pubDate><description><![CDATA[<p>A few weeks ago my PopOS install would not show the grub screen. Nothing would fix it so I had to reinstall.</p>
+<p>Thought I should try Linux Mint. Went to install Linux Mint to replace PopOS.</p>
+<p>The install was very easy being it is a beginner distro. Got it installed and went to install some programs like steam.</p>
+<p>Steam worked right out of the box including most of the other applications I installed.</p>
+<p>I really liked Linux Mint and will continue to use it till I think there is a need to switch. Really liked the Software center. On PopOS the Pop shop froze at times and is not close to as good as the software center on Linux Mint. The Software center on Linux Mint is one of the best on any distro and is great for beginners.</p>
+<p>Everything just work for me on Linux Mint and the cinnamon desktop is so much better in my opinion then Gnome.</p>
+<p>Overall I think Linux Mint is a great distro and you should try it out.</p>]]></description>
+</item>
+
+
+<item>
+<title>Using an Ipod shuffle 1st gen on linux  </title>
+<guid>https://jasonsanta.xyz/Using-an-Ipod-shuffle-1st-gen-on-linux--.html</guid>
+<pubDate>Sun, 24 Apr 2022 19:41:08 -0400</pubDate><description><![CDATA[<p>Most people don’t use ipods anymore because phones have replaces them. The issues with using a phone as a media player is that its not nearly as small as using a standalone media player. Streaming services charge money for music that is lower quality and you don’t own the music. Buying the music from cds or digital download (downloading the media file not with an app to just play offline) results in better quality. Your supporting the people who make the music by buying the music. Its so much better. Besides I don’t have to use my phones battery when I am using a standalone media player.</p>
+<p>Found an old Ipod that was in storage. Its a 1st gen shuffle 1gb model. Why not just load some of my songs on it and listen to them. So that is what I did. I am using linux so I can’t just load up itunes and transfer my songs that way. Turns out that rhythmbox has support for Ipods. Though my ipod shuffle was not being detected by it. Was not even being mounted as a file system. While in windows it was being mounted.</p>
+<p>The solution I came up with was to use this python application called rebuild_db. It scans for all of the music in the same directory as the script is in.<br />
+First I have to mount the Ipod to my system. Then I download the python script and put it on the root directory of the ipod. After that I can rearange my music however I want on the ipod. I put my music under a folder named music then inside that I have some other folders to keep track of what I have. Its up to you how to rearange your music as long as its not in the iPod_Control directory. After you got your music sorted out run the script in the root directoy of your ipod. Its made in python2 so you have to use python2 to run the script. Python3 will just give an error.</p>
+<p>After your done just have fun with your ipod. This method will work on almost any os with python2 (i think). No longer have to use itunes or some graphical program to manage the songs.<br />
+Note: this only works for the first and second gen ipod shuffles. Even though this was last updated in 2006 it still works great.</p>
+<p>I loaded some great music onto mine like The Beach Boys.</p>
+<p>If you want to check out the python script have a look over on sourceforge: <a href="http://shuffle-db.sourceforge.net">http://shuffle-db.sourceforge.net</a></p>]]></description>
+</item>
+
+
+<item>
+<title>Using an Ipod shuffle 1st gen on linux  </title>
+<guid>https://jasonsanta.xyz/Using-an-Ipod-shuffle-1st-gen-on-linux--.html</guid>
+<pubDate>Sun, 24 Apr 2022 19:41:08 -0400</pubDate><description><![CDATA[<p>Most people don’t use ipods anymore because phones have replaces them. The issues with using a phone as a media player is that its not nearly as small as using a standalone media player. Streaming services charge money for music that is lower quality and you don’t own the music. Buying the music from cds or digital download (downloading the media file not with an app to just play offline) results in better quality. Your supporting the people who make the music by buying the music. Its so much better. Besides I don’t have to use my phones battery when I am using a standalone media player.</p>
+<p>Found an old Ipod that was in storage. Its a 1st gen shuffle 1gb model. Why not just load some of my songs on it and listen to them. So that is what I did. I am using linux so I can’t just load up itunes and transfer my songs that way. Turns out that rhythmbox has support for Ipods. Though my ipod shuffle was not being detected by it. Was not even being mounted as a file system. While in windows it was being mounted.</p>
+<p>The solution I came up with was to use this python application called rebuild_db. It scans for all of the music in the same directory as the script is in.<br />
+First I have to mount the Ipod to my system. Then I download the python script and put it on the root directory of the ipod. After that I can rearange my music however I want on the ipod. I put my music under a folder named music then inside that I have some other folders to keep track of what I have. Its up to you how to rearange your music as long as its not in the iPod_Control directory. After you got your music sorted out run the script in the root directoy of your ipod. Its made in python2 so you have to use python2 to run the script. Python3 will just give an error.</p>
+<p>After your done just have fun with your ipod. This method will work on almost any os with python2 (i think). No longer have to use itunes or some graphical program to manage the songs.<br />
+Note: this only works for the first and second gen ipod shuffles. Even though this was last updated in 2006 it still works great.</p>
+<p>I loaded some great music onto mine like The Beach Boys.</p>
+<p>If you want to check out the python script have a look over on sourceforge: http://shuffle-db.sourceforge.net</p>]]></description>
 </item>
 
 
