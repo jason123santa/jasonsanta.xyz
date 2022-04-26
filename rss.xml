@@ -11,7 +11,7 @@
 <item>
 <title>Review of Delta Chat messenger </title>
 <guid>https://jasonsanta.xyz/posts/review-of-delta-chat-messenger-.html</guid>
-<pubDate>Tue, 26 Apr 2022 17:35:54 -0400</pubDate><description><![CDATA[<p>Everyone has an email address these days. Email as a protocol has been around for many years at this point. Most people end up using gmail as the email provider.<br />
+<pubDate>Tue, 26 Apr 2022 17:40:58 -0400</pubDate><description><![CDATA[<p>Everyone has an email address these days. Email as a protocol has been around for many years at this point. Most people end up using gmail as the email provider.<br />
 Many people end up only using email to sign up for services that require an email address. At this point email is being less and less used every day. People just have email as something that is used to send quick long formal messages to someone. Its rarely used to communicate with someone like a chat application is.</p>
 <p>The protocol of email works very good. Anyone can get a cheap vps and self host an email service. Even though I never self hosted my own email server I know that mail in a box is a nice easy solution that people like to use to make self hosting email easy. The main reason why there is very limited use of email as a chat application is because the clients are made for longer and less messages sent type of conversations.</p>
 <p>That is where Delta Chat changes everything. Its a chat application like sms or signal but using email instead. Its ment to provide privacy while chatting. No central server is required. Its just like an email client but with the ui of a chat application.</p>
@@ -24,7 +24,8 @@ Overall I do like delta chat and I think its easy way to get people to use a pri
 I would like to see them make an interface that includes non chat emails and has an interface like a normal email client. They all ready have the option to send non chat emails but they show up as a chat and the ui is only great for chats. It would be cool if there could be a chats section and then a normal section. Would make it so much easier to convince people to switch over. A secure chating service and a normal email client in the same application with the same account.<br />
 Delta chat is supported on android (fdroid or google play),ios,windows,linux and mac. Its trully cross platform.</p>
 <p>Download it over at <a href="https://delta.chat">https://delta.chat</a> today. I think you will end up liking it as much as I do (its hard to convince people to use it so I don’t have much use for it).</p>
-<p>Screenshots: <img src="../images/delta-chat-1.png" alt="elta chat conversation"/></p>]]></description>
+<p>Screenshots: <img src="../images/delta-chat-1.png" alt="elta chat conversation"/></p>
+<p>This is post 4 of 100 days to offload</p>]]></description>
 </item>
 
 
