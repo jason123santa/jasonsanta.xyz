@@ -9,6 +9,18 @@
 <atom:link href="https://jasonsanta.xyz/rss.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>New css for my website </title>
+<guid>https://jasonsanta.xyz/posts/new-css-for-my-website-.html</guid>
+<pubDate>Mon, 23 May 2022 16:57:46 -0400</pubDate><description><![CDATA[<p>I wanted to make my website look better. I don’t like writing css that much and can’t figure out how to make my css how i really want it.<br />
+A css framework will be complex and hard to use. That is where simplecss comes in. Its very basic and just styles the website and elements on the websites. There is ways to create custom css if you add your own css file.</p>
+<p>My website might look almost the same now but I think its much better. The additional elements I add to my website like code blocks and such are automaticlly styled for me. If I was using my old css then I would have to style every new element I wanted to add. I wanted to add buttons to my website and I had to style them. With simplecss I have them automaticlly styled.</p>
+<p>While my site might looks almost the same the backend css is much much better and my website will look better in the future. I also have a section now where I post some random quotes that I found or have come up with.</p>
+<p><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br></p>
+<p>This is post 6 of 100 days to offload</p>]]></description>
+</item>
+
+
+<item>
 <title>Hosting my own Pleroma instance</title>
 <guid>https://jasonsanta.xyz/posts/hosting-my-own-pleroma-instance.html</guid>
 <pubDate>Mon, 09 May 2022 00:00:00 -0400</pubDate><description><![CDATA[<p>I thought it would be better if I hosted my own federated social network and owned my data. I can also have my own rules and everything.<br />
